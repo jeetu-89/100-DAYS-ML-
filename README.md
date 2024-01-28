@@ -16,4 +16,10 @@
 7. Magic/Dunder Methods
 8. Method Overriding
 
+## Day 2
+### PYTORCH 
+1. nn.Sequential
+2. nn.Module
+3. Creating Custom Layers
+4. Dataset and Datastores
   
