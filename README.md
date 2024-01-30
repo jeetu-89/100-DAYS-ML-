@@ -22,4 +22,20 @@
 2. nn.Module
 3. Creating Custom Layers
 4. Dataset and Datastores
-  
+
+## Day 3
+### HUGGING FACE 
+#### Transformer Model
+1. Introduction
+2. Natural Language Processing
+3. Transformers, what can they do?
+4. How do Transformers work?
+5. Encoder models
+6. Decoder models
+7. Sequence-to-sequence models sequence-to-sequence-models
+8. Bias and limitations
+9. Summary
+### BLOGS
+Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+
