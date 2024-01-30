@@ -25,7 +25,7 @@
 
 ## Day 3
 ### HUGGING FACE 
-#### Transformer Model
+#### 1. Transformer Model
 1. Introduction
 2. Natural Language Processing
 3. Transformers, what can they do?
