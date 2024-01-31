@@ -43,7 +43,7 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
 #### 2. USING 🤗 TRANSFORMERS
 1. Inroduction
 2. Behind the pipeline
-3. 
+3. Models
 
 
 
