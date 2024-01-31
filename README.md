@@ -38,4 +38,13 @@
 ### BLOGS
 Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 
+## Day 4
+### HUGGING FACE
+#### 2. USING 🤗 TRANSFORMERS
+1. Inroduction
+2. Behind the pipeline
+3. 
+
+
+
 
