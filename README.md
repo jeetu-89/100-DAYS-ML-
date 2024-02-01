@@ -45,6 +45,12 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
 2. Behind the pipeline
 3. Models
 
-
-
+## Day 5
+### HUGGING FACE
+#### 2. USING 🤗 TRANSFORMERS
+4. Tokenizers
+5. Handling multiple sequences
+6. Putting it all together
+7. End-of-chapter quiz
+   
 
