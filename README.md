@@ -52,5 +52,9 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
 5. Handling multiple sequences
 6. Putting it all together
 7. End-of-chapter quiz
+### 3. FINE-TUNING A PRETRAINED MODEL
+1. Introduction
+2. Processing the data
+3. 
    
 
