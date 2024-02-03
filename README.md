@@ -55,6 +55,11 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
 ### 3. FINE-TUNING A PRETRAINED MODEL
 1. Introduction
 2. Processing the data
-3. 
+
+## Day 5
+### HUGGING FACE
+### 3. FINE-TUNING A PRETRAINED MODEL
+3. Fine-tuning a model with the Trainer API
+4. A full training
    
 
