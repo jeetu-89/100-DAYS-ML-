@@ -62,4 +62,10 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
 3. Fine-tuning a model with the Trainer API
 4. A full training
    
+## Day 7
+### HUGGING FACE
+#### 5. THE 🤗 DATASETS LIBRARY
+1. Introduction
+2. What if my dataset isn’t on the Hub?
 
+### Installation of cuda and jupyter notebook in WSL 
