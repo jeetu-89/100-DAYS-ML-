@@ -69,3 +69,8 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
 2. What if my dataset isn’t on the Hub?
 
 ### Installation of cuda and jupyter notebook in WSL and creating local environment
+
+## Day 8
+### HUGGING FACE
+#### 5. THE 🤗 DATASETS LIBRARY
+3. Time to slice and dice
