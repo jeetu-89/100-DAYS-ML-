@@ -74,3 +74,12 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
 ### HUGGING FACE
 #### 5. THE 🤗 DATASETS LIBRARY
 3. Time to slice and dice
+
+## Day 9
+### HUGGING FACE
+#### 5. THE 🤗 DATASETS LIBRARY
+3. Time to slice and dice
+
+#### BLOGS
+1. For Loop vs List Comprehension vs Map Function : https://www.linkedin.com/pulse/loop-vs-list-comprehension-map-function-akhilesh-singh#:~:text=specific%20use%20case.-,List%20comprehensions%20are%20often%20faster%20than%20loops%20because%20they%20use,lead%20to%20more%20efficient%20code.
+
