@@ -83,3 +83,12 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
 #### BLOGS
 1. For Loop vs List Comprehension vs Map Function : https://www.linkedin.com/pulse/loop-vs-list-comprehension-map-function-akhilesh-singh#:~:text=specific%20use%20case.-,List%20comprehensions%20are%20often%20faster%20than%20loops%20because%20they%20use,lead%20to%20more%20efficient%20code.
 
+## Day 10
+### HUGGING FACE
+#### 6. THE 🤗 TOKENIZERS LIBRARY
+1. Introduction
+2. Training a new tokenizer from an old one
+   - Assembling a corpus
+   - Training a new tokenizer
+   - Saving the tokenizer
+
