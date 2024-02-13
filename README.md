@@ -96,3 +96,6 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
 #### 6. THE 🤗 TOKENIZERS LIBRARY
 3. Fast tokenizers’ special powers
    - Batch encoding
+   - Inside the token-classification pipeline
+     . Getting the base results with the pipeline
+     . 
