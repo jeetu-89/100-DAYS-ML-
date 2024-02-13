@@ -91,4 +91,8 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
    - Assembling a corpus
    - Training a new tokenizer
    - Saving the tokenizer
-
+## Day 10
+### HUGGING FACE
+#### 6. THE 🤗 TOKENIZERS LIBRARY
+3. Fast tokenizers’ special powers
+   - Batch encoding
