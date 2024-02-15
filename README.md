@@ -91,11 +91,24 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
    - Assembling a corpus
    - Training a new tokenizer
    - Saving the tokenizer
-## Day 10
+## Day 11
 ### HUGGING FACE
 #### 6. THE 🤗 TOKENIZERS LIBRARY
 3. Fast tokenizers’ special powers
    - Batch encoding
    - Inside the token-classification pipeline
      . Getting the base results with the pipeline
-     . 
+
+## Day 12
+### HUGGING FACE
+#### 6. THE 🤗 TOKENIZERS LIBRARY
+3. Fast tokenizers’ special powers
+   - Batch encoding
+   - Inside the token-classification pipeline
+   - From inputs to predictions
+   - Grouping entities
+4. Fast tokenizers in the QA pipeline
+   - Using the question-answering pipeline
+   - Using a model for question answering
+   - 
+
