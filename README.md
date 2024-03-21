@@ -111,4 +111,12 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
    - Using the question-answering pipeline
    - Using a model for question answering
    - 
-
+## Day 13
+### HUGGING FACE
+#### 6. THE 🤗 TOKENIZERS LIBRARY
+5. Normalization and pre-tokenization
+    - Normalization
+    - Pre-tokenization
+6. Byte-Pair Encoding tokenization
+   - Training algorithm
+   - Tokenization algorithm
