@@ -120,3 +120,11 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
 6. Byte-Pair Encoding tokenization
    - Training algorithm
    - Tokenization algorithm
+## Day 14
+### HUGGING FACE
+#### 6. THE 🤗 TOKENIZERS LIBRARY
+7. Byte-Pair Encoding tokenization
+    - Training algorithm
+    - Tokenization algorithm
+#### OTHER SOURCE
+1. DefaultDict - https://www.youtube.com/watch?v=Sah0p4ILGRE
